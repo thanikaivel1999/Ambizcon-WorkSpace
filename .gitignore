@@ -1,0 +1,12 @@
+node_modules
+.next
+.env
+.env.local
+*.tsbuildinfo
+next-env.d.ts
+data/
+.env*
+!.env.example
+*.backup
+*.zip
+.seed-credentials.txt
